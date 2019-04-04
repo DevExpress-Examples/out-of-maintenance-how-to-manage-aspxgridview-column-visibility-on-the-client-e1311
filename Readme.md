@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [ColumnVisibilityManager.cs](./CS/Site/App_Code/ColumnVisibilityManager.cs) (VB: [ColumnVisibilityManager.vb](./VB/Site/App_Code/ColumnVisibilityManager.vb))
-* [Default.aspx](./CS/Site/Default.aspx) (VB: [Default.aspx.vb](./VB/Site/Default.aspx.vb))
+* [Default.aspx](./CS/Site/Default.aspx) (VB: [Default.aspx](./VB/Site/Default.aspx))
 * [Default.aspx.cs](./CS/Site/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Site/Default.aspx.vb))
 * [ColumnVisibilityManager.js](./CS/Site/JS/ColumnVisibilityManager.js) (VB: [ColumnVisibilityManager.js](./VB/Site/JS/ColumnVisibilityManager.js))
 <!-- default file list end -->

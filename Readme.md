@@ -7,6 +7,9 @@
 * [ColumnVisibilityManager.js](./CS/Site/JS/ColumnVisibilityManager.js) (VB: [ColumnVisibilityManager.js](./VB/Site/JS/ColumnVisibilityManager.js))
 <!-- default file list end -->
 # How to manage ASPxGridView column visibility on the client.
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1311/)**
+<!-- run online end -->
 
 
 <p>This sample demonstrates how to change ASPxGridView columns' visibility on a custom callback.</p><p><strong>See Also:</strong><br />

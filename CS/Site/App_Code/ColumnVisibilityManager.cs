@@ -1,7 +1,6 @@
 using System;
 using System.Web.UI.WebControls;
-using DevExpress.Web.ASPxGridView;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 
 public class ColumnVisibilityManager : WebControl {
     public const string CvmCallbackPrefix = "cvm!";

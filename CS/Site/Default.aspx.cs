@@ -1,6 +1,6 @@
 using System;
 using System.Web.UI;
-using DevExpress.Web.ASPxGridView;
+using DevExpress.Web;
 
 public partial class _Default : Page {
     protected void Page_Load(object sender, EventArgs e) {

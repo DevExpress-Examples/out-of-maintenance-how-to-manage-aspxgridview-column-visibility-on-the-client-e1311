@@ -1,8 +1,7 @@
 Imports Microsoft.VisualBasic
 Imports System
 Imports System.Web.UI.WebControls
-Imports DevExpress.Web.ASPxGridView
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 
 Public Class ColumnVisibilityManager
 	Inherits WebControl
